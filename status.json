@@ -1,0 +1,24 @@
+{
+    "api": "0.13",
+    "space": "OpenLabs MakerSpace",
+    "logo": "https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/vertical_color.png",
+    "url": "https://openlabs.cc/en/",
+    "location": {
+        "address": "st. Pjeter Budi, building 67, in front of Bar Panorama, Tirana, Albania",
+        "lon": 41.321399,
+        "lat": 19.829108
+    },
+    "contact": {
+        "email": "info@openlabs.cc"
+    },
+    "issue_report_channels": [
+      "email"
+    ],
+    "state": {
+        "open": false,
+        "icon": {
+            "open": "",
+            "closed": ""
+        }
+    }
+}
